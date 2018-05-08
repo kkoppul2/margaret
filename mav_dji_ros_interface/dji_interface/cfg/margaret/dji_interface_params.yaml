@@ -1,0 +1,14 @@
+device: "/dev/ttyUSB0" #"/dev/tty.usbserial-A104JS3T"
+app_id: 1043092
+enc_key: "679acf2abc4b06a3e1d0c945e29e2756cd14de75041a37cc80d8c7237b8bf92b"
+thrust_constant: 1.2
+baudrate: 230400
+#921600, 
+#available freq: 0 1 10 50 100 Hz
+imu_update_rate: 50 #100
+gps_update_rate: 1
+time_stamp_update_rate: 1
+magnetometer_update_rate: 1
+rc_update_rate: 10
+status_update_rate: 1
+
